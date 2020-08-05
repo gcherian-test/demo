@@ -1,3 +1,0 @@
-Just a sample text
-Testing the -am feature
-
